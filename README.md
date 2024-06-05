@@ -39,7 +39,7 @@ python Mytrain.py
 ```bash
 python Mytest.py
 ```
-### eval
+
 - **For miou and mDice**:
 ```bash
 python eval.py
